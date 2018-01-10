@@ -12,7 +12,7 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-The end-user documentation included with the redistribution, if any,must
+The end-user documentation included with the redistribution, if any, must
 include the following acknowledgment: "This product includes
 software developed by regi18 (https://github.com/regi18, http://regi18.ml)", in the same place 
 and form as other third-party acknowledgments. 
